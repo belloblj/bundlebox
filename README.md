@@ -11,4 +11,11 @@
 7. Clone the Github repo from 2 above on the terminal.
 8. Create a file 01-sample.sh and enter the commands.
 9. commit and push all to your Github repo.
-10. Git pull your gitrepo on the terminal and see the shellscript commands run
+10. Git pull your gitrepo on the terminal and see the shellscript commands run.
+
+## How to Create a EC2 Server:
+
+https://lucky-hide-390.notion.site/How-to-Create-a-EC2-Server-ad7683b625ed46da80d8a16072cc0e96
+
+## Download PuTTY: latest release (0.78)
+https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
